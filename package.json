@@ -16,12 +16,11 @@
     "url": "https://github.com/Colingo/invoker/issues",
     "email": "raynos2@gmail.com"
   },
-  "peerDependencies": {
-    "reducible": "~1.0.5"
+  "dependencies": {
+    "reducible": "Raynos/reducible#v1.0.6"
   },
   "devDependencies": {
     "tape": "~0.2.2",
-    "reducible": "~1.0.5",
     "browserify": "https://github.com/raynos/node-browserify/tarball/master",
     "testem": "~0.2.56"
   },
